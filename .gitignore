@@ -1,0 +1,9 @@
+.copilot-specs-cache/
+.venv/
+data/
+.ipynb_checkpoints/
+__pycache__/
+PLAN.md
+RAG_LMA_Assignment_v1.pdf
+.env
+.claude/
