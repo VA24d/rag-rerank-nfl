@@ -59,7 +59,8 @@ every chunk with the cross-encoder twice.
 ## Layout
 
 ```
-rag_rerank.ipynb   the whole pipeline, sections 1 to 10
+rag_rerank.ipynb   the whole pipeline, sections 1 to 10, executed on the NFL rulebook
+run_nba.ipynb      the same notebook executed with DOC=nba
 requirements.txt   pinned dependencies
 README.md          this file
 data/              downloaded PDFs (gitignored)
